@@ -4,6 +4,11 @@ This Fotomatic portfolio website is designed with a strong emphasis on **respons
 
 ## Flexbox for Responsive Layout
 
+![Fotomatic_phone](https://github.com/artemdev9/front_end_development/assets/128802307/f90e7588-f7ef-4123-8ea8-046c87c786b8)![Fotomatic_computer](https://github.com/artemdev9/front_end_development/assets/128802307/4d8e71d4-9e12-4e81-be07-9f4121e96f4e)
+![Fotomatic_tablet](https://github.com/artemdev9/front_end_development/assets/128802307/1be8cd62-e87c-4a08-a2b0-ce3b6270f16c)
+
+
+
 - **Header Navigation:** Flexbox is extensively used for the header navigation, allowing items to evenly distribute and align horizontally on larger screens. On smaller screens, it switches to a vertical layout to maintain readability and usability.
 
 - **Sign-Up Section:** Flexbox plays a crucial role in the "Sign Up" section by aligning content both vertically and horizontally, ensuring that the call-to-action remains centered and visually appealing regardless of screen size.
