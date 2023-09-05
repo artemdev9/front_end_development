@@ -4,15 +4,15 @@ This Fotomatic portfolio website is designed with a strong emphasis on **respons
 
 ## Flexbox for Responsive Layout
 
-- **Header Navigation:** Flexbox is extensively used for the header navigation, allowing items to evenly distribute and align horizontally on larger screens. On smaller screens, it switches to a vertical layout to maintain readability and usability.
+- **Header Navigation:** Flexbox is extensively used for the header navigation, allowing items to evenly distribute and align horizontally on larger screens. On smaller screens, it switches to icons instead of text to maintain readability and usability.
 
-- **Sign-Up Section:** Flexbox plays a crucial role in the "Sign Up" section by aligning content both vertically and horizontally, ensuring that the call-to-action remains centered and visually appealing regardless of screen size.
+- **Sign-Up Section:** Flexbox plays a crucial role in the "Sign Up" section by aligning content both vertically and horizontally, ensuring that the call-to-action remains visually appealing regardless of screen size.
 
 - **Features Section:** The feature cards in the "Features" section are placed side by side using flexbox on larger screens, optimizing the use of available space. On smaller screens, they stack vertically for a user-friendly presentation.
 
-- **Filters Section:** Flexbox is utilized to distribute filter images evenly within the "Filters" section, making sure they adapt to the screen width. The extra filter image is hidden on smaller screens using flex properties.
+- **Filters Section:** Flexbox is utilized to distribute filter images evenly within the "Filters" section, making sure they adapt to the screen width. The extra filter image is hidden on smaller screens.
 
-- **Quotes Section:** Flexbox is applied to center the quote and citation in the "Quotes" section, maintaining readability and visual balance across different devices.
+- **Quotes Section:** Flexbox is applied to center the quote and citation in the "Quotes" section, maintaining readability and visual balance across different devices. On smaller screens the quite stacks on top of the image.
 
 - **Footer:** The footer information is organized using flex properties to create a balanced layout with the copyright and location information.
 
@@ -22,7 +22,7 @@ This Fotomatic portfolio website is designed with a strong emphasis on **respons
 
 ## Media Queries
 
-- The website uses media queries in conjunction with flexbox to apply specific styles and layouts for different screen sizes, enabling a fluid and adaptable design.
+- The website uses media queries in conjunction to apply specific styles and layouts for different screen sizes, enabling a fluid and adaptable design.
 
 ## Cross-Device Compatibility
 
