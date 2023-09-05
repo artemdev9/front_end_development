@@ -6,11 +6,7 @@ This Fotomatic portfolio website is designed with a strong emphasis on **respons
 
 - **Header Navigation:** Flexbox is extensively used for the header navigation, allowing items to evenly distribute and align horizontally on larger screens. On smaller screens, it switches to icons instead of text to maintain readability and usability.
 
-<<<<<<< HEAD
 - **Sign-Up Section:** Flexbox plays a crucial role in the "Sign Up" section by aligning content both vertically and horizontally, ensuring that the call-to-action remains visually appealing regardless of screen size.
-=======
-- **Sign-Up Section:** Flexbox plays a crucial role in the "Sign Up" section by aligning content both vertically and horizontally, ensuring that the call-to-action remains centred and visually appealing regardless of screen size.
->>>>>>> a959b6e3f16961e8056144cbcaf3f66db3d5349c
 
 - **Features Section:** The feature cards in the "Features" section are placed side by side using flexbox on larger screens, optimizing the use of available space. On smaller screens, they stack vertically for a user-friendly presentation.
 
